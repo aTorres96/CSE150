@@ -1,4 +1,4 @@
-#UCSC CSE150
+#CSE150
 CSE 150 Computer Networks at University of California Santa Cruz
 
 All of the coding assignments in CSE 150. 
